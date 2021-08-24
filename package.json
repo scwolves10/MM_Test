@@ -18,6 +18,7 @@
     "@types/react-dom": "^17.0.9",
     "@types/react-router-dom": "^5.1.8",
     "@types/webpack": "4.x",
+    "@uniswap/default-token-list": "^2.0.0",
     "@usedapp/core": "^0.4.6",
     "copy-webpack-plugin": "^9.0.1",
     "esbuild-loader": "^2.15.1",
