@@ -12,7 +12,7 @@ import { Transactions } from './pages/Transactions'
 import { SendEtherPage } from './pages/SendEtherPage'
 import { NotificationsList } from './components/Transactions/History'
 
-export function App() {
+function App() {
   return (
     <Page>
       <GlobalStyle />
@@ -32,3 +32,4 @@ export function App() {
     </Page>
   )
 }
+export default App;
